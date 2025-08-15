@@ -1,4 +1,4 @@
-# 🐍 Python: From Beginner to Builder
+# 🐍 Python: From Beginner to Builder 
 
 A complete, hands-on course designed to take you from zero to building your first application with Python.
 
@@ -49,3 +49,5 @@ A complete, hands-on course designed to take you from zero to building your firs
     * Part III: Polishing & Finalizing
 17. **Chapter 17: The Path Forward**
     * Specializations, **Git & GitHub**, Continued Learning
+
+000
